@@ -1,0 +1,3 @@
+Nesta aula, foi vistoa possibilidade de criar variáveis dentro referenciando um elemento. Isso pode ser visto na property #campoInput criada
+no html do output-property. O binding foi feito no component.ts através do decorator @ViewChild('nomeCampo'), usado em um ElementRef. A atualização
+do campo acontece manipulando diretamente essa variável.
